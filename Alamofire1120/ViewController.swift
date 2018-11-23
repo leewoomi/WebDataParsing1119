@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  WebDataParsing1119
+//  Alamofire1120
 //
-//  Created by 503-08 on 19/11/2018.
+//  Created by 503-08 on 20/11/2018.
 //  Copyright © 2018 leewoomi. All rights reserved.
 //
 
@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        
+        
+        
     }
 
 
